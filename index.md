@@ -58,7 +58,7 @@ This is a two semester Computer Science capstone course culminating in a signifi
 
 <div style="font-size:90%">
 
-| Week <br> (Monday)  | Lecture Session <br>(Tuesday) | Lab <br>(Wednesday) | Work Deadlines <br>(Sunday 11:59pm, unless otherwise noted) |
+| Week <br> (Tuesday)  | Lecture Session <br>(Tuesday) | Lab <br>(Wednesday) | Work Deadlines <br>(Sunday 11:59pm, unless otherwise noted) |
 | :--- |:---  |:--- |:--- |
 | Aug. 25 | - [Course Logistics](lectures/1-Course-Structure.pdf) | [[Lab Slides](lectures/lab_1.pdf)] <br> - Lab Overview <br> - Project Management Intro <br> - Team Formation | 1. [Look at sample ideas](ideas.md) <br> 2. [Join slack](https://join.slack.com/t/gwcssd25-26/shared_invite/zt-3bhej5phf-iVf_UwNsOwMpVKCYtEHQgQ) & upload your photo ASAP <br> 3. Complete [Student Info form](https://forms.gle/gmray918rNtgavgw9) ASAP <br> 4. Form teams & complete [team submission](https://forms.gle/26HhCb1krjA2vfsz6) (one per team!) before Tuesday's class (Sept. 2) |  
 | Sept. 1  | - [Presentation Skills](lectures/how-to-present.pdf) <br> - Review project ideas | [[Lab Slides](lectures/lab_2.pdf)] <br> - [ML Research](lectures/ML_Project_Design.pdf)  <br> - GTA Introduction <br> - Github Projects Setup <br> - Tech Lab Overview |  1. [Refine Project ideas](https://forms.gle/26HhCb1krjA2vfsz6) (edit team submission) <br> 2. [Submit Resume](https://blackboard.gwu.edu) (blackboard, Sept. 7) <br> 3. Schedule weekly instructor meeting (Sept. 7) |
