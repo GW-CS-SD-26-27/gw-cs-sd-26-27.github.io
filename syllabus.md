@@ -4,8 +4,8 @@ title: Syllabus
 permalink: /syllabus/
 ---
 
-**Instructors:** Xiaodong Qu, Timothy Kim, Josh Shapiro
-**Email:** x.qu@gwu.edu timothyk@gwu.edu jshapiro314@gwu.edu
+**Instructors:** Xiaodong Qu, Noel Warford, Thomas Schmidt
+**Email:** x.qu@gwu.edu, noel.warford@gwu.edu, tschmidt26@gwu.edu
 **Prerequisites:** Senior status, CSCI 3212, CSCI 3411 
 
 **Time/Place:**
