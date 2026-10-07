@@ -58,6 +58,8 @@ This is a two semester Computer Science capstone course culminating in a signifi
 
 <div style="font-size:90%">
 
+
+
 | Week <br> (Tuesday)  | Lecture Session <br>(Tuesday) | Lab <br>(Wednesday) | Work Deadlines <br>(Sunday 11:59pm, unless otherwise noted) |
 | :--- |:---  |:--- |:--- |
 | Aug. 25 | - [Course Logistics](lectures/1-Course-Structure.pdf) | [[Lab Slides](lectures/lab_1.pdf)] <br> - Lab Overview <br> - Project Management Intro <br> - Team Formation | 1. [Look at sample ideas](ideas.md) <br> 2. [Join slack](https://join.slack.com/t/gwcssd26-27/shared_invite/zt-47ti6nv77-mf9pWErjYW0irjLV1Ir3Tw) & upload your photo ASAP <br> 3. Complete [Student Info form](https://forms.gle/CMcV59XbNQ3bc7dK9) ASAP <br> 4. Form teams & complete [team submission](https://forms.gle/hMx2tVTWH3LHvRvU7) (one per team!) before Tuesday's class (Sept. 1st) |  
